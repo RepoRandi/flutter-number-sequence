@@ -1,15 +1,15 @@
 # Number Sequence App
 
 ### Screenshot:
-![screenshot](assets/screenshot_1.png)
+![screenshot](assets/screenshot1.png)
 
-![screenshot](assets/screenshot_2.png)
+![screenshot](assets/screenshot2.png)
 
-![screenshot](assets/screenshot_3.png)
+![screenshot](assets/screenshot3.png)
 
-![screenshot](assets/screenshot_4.png)
+![screenshot](assets/screenshot4.png)
 
-![screenshot](assets/screenshot_5.png)
+![screenshot](assets/screenshot5.png)
 
 ## How to Run the App
 
