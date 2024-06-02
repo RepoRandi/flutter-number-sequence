@@ -1,16 +1,44 @@
-# number_sequence
+# Number Sequence App
 
-A new Flutter project.
+### Screenshot:
+![screenshot](assets/screenshot_1.png)
 
-## Getting Started
+![screenshot](assets/screenshot_2.png)
 
-This project is a starting point for a Flutter application.
+![screenshot](assets/screenshot_3.png)
 
-A few resources to get you started if this is your first Flutter project:
+![screenshot](assets/screenshot_4.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![screenshot](assets/screenshot_5.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to Run the App
+
+Here are the steps to run this application:
+
+### Prerequisites
+
+Make sure you have Flutter installed on your computer. For Flutter installation instructions, visit the [official Flutter documentation](https://flutter.dev/docs/get-started/install).
+
+### Steps
+
+1. Clone this repository to your computer:
+
+git clone https://github.com/RepoRandi/flutter-number-sequence.git
+
+2. Open a terminal and navigate to the project directory:
+
+cd flutter-number-sequence
+
+
+3. Run the app:
+
+flutter run
+
+This will start the app on the emulator or connected device.
+
+## Contributing
+
+If you'd like to contribute to this project, please create a pull request with your proposed changes. We will review it as soon as possible.
+
+Thank you for using this app!
+
